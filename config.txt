@@ -1,1 +1,2 @@
-configuration file inti
+configuration file initialization
+Line2 Added
