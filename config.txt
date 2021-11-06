@@ -1,4 +1,8 @@
 configuration file initialization
+configuration file init
+Added Line for feature-b
+configuration file deletion
+>>>>>>> d359feb (Update config.txt)
 Line2 Added
 Adding a line in main branch
 configuration file init
